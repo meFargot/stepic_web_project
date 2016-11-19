@@ -8,3 +8,4 @@ sudo /etc/init.d/gunicorn restart
 sudo /etc/init.d/mysql start
 git config --global user.email "me.fargot@ya.ru"
 git config --global user.name "meFargot"
+alias mc="sudo mc"
